@@ -1,2 +1,2 @@
 # AnnotateLoops
- This Python script annotates loops, focusing on identifying Super Enhancer (SE) and promoter (P) loops.
+ This Python script annotates loops, focusing on identifying Super Enhancer (SE) and promoter (P) loops. It takes BEDPE format loop files as input, along with an annotation file mapping files to labels. The script intersects loop anchors with SE and P annotation files, categorizing loops accordingly. Output files are generated for SE-P loop combinations, as well as a summary file detailing the annotated loops. The script enhances genomic analysis by providing insights into SE and P loop interactions.
