@@ -9,8 +9,8 @@ This Python script annotates genomic loops, focusing on identifying Super Enhanc
 
 ## Usage
 ```sh
-usage: annotate_loops.py [-h] -a ANNOTATION_FILE -i INPUT [INPUT ...] [-o OUTPUT_DIRECTORY]
-annotate_loops.py: error: the following arguments are required: -a/--annotation_file, -i/--input
+usage: Annotate_loops.py [-h] -a ANNOTATION_FILE -i INPUT [INPUT ...] [-o OUTPUT_DIRECTORY]
+Annotate_loops.py: error: the following arguments are required: -a/--annotation_file, -i/--input
 
 ## Arguments
 -a ANNOTATION_FILE, --annotation_file: Path to the annotation file that maps files to labels.
